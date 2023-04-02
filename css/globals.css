@@ -1,0 +1,553 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600|IBM+Plex+Serif:400,700,500,600|Nunito+Sans:400,600|Montserrat:400,300|Inter:400,700,500,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/64246e6746478be09c06ed68.64246e6863a47e1991c8ebae.TndquD9.hcp.png");
+
+@font-face {
+  font-family: "FontAwesome-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/FontAwesome Regular.otf") format("opentype");
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 2.0px;
+  min-height: 496px;
+  width: 1922px;
+}
+
+.wbax-news-1-01-1 {
+  align-self: flex-start;
+  height: 60px;
+  object-fit: cover;
+  width: 150px;
+}
+
+.corona-updates-polit {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.checkbox {
+  height: 8px;
+  left: 576px;
+  position: absolute;
+  top: 7px;
+  width: 8px;
+}
+
+.vector {
+  height: 12px;
+  margin-left: 32px;
+  margin-top: 0.98px;
+  width: 12px;
+}
+
+.icon-user {
+  height: 24px;
+  margin-left: 66px;
+  width: 19px;
+}
+
+.vector-1 {
+  height: 22px;
+  margin-left: 40px;
+  width: 23px;
+}
+
+.wbax-news-1-01-1-1 {
+  height: 60px;
+  left: 286px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 150px;
+}
+
+.ny-cs-central-park-h {
+  height: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 800px;
+}
+
+.easy-button {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 54px;
+  margin-top: 15px;
+  width: 65px;
+}
+
+.sign-up {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 15px;
+  width: 63px;
+}
+
+.group-299 {
+  display: flex;
+  gap: 9.5px;
+  margin-left: 9px;
+  width: 40px;
+}
+
+.button {
+  background-color: var(--green);
+  border-radius: 20px;
+  height: 10px;
+  margin-left: 0;
+  margin-top: 2.0px;
+  transform: rotate(-90.00deg);
+  width: 10px;
+}
+
+.vector-50 {
+  height: 14px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.button-1 {
+  background-color: var(--orange);
+  border-radius: 20px;
+  height: 10px;
+  margin-top: 2.0px;
+  transform: rotate(-90.00deg);
+  width: 10px;
+}
+
+.a-massive-fire-broke {
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 396px;
+  width: 705px;
+}
+
+.recommended-for-you {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 59.0px;
+  margin-top: 162px;
+  min-width: 211px;
+}
+
+.what-a-tik-tok-ban-would-mean-for-users {
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 156px;
+  width: 215px;
+}
+
+.group-285 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  left: 0;
+  min-height: 404px;
+  position: absolute;
+  top: 394px;
+  width: 1365px;
+}
+
+.related-topics {
+  letter-spacing: 0;
+  line-height: 29.3px;
+  min-height: 32px;
+  white-space: nowrap;
+}
+
+.extreme-weather-meet {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 176px;
+  min-height: 50px;
+  width: 215px;
+}
+
+.vector-44 {
+  height: 1px;
+  object-fit: cover;
+  width: 215px;
+}
+
+.honda-recalls-more-t {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 176px;
+  min-height: 63px;
+  width: 215px;
+}
+
+.poll-nearly-half-of {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 176px;
+  min-height: 50px;
+  width: 215px;
+}
+
+.group-501 {
+  background-image: url(../img/group-16-4@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 357px;
+  width: 255px;
+}
+
+.group-46 {
+  display: flex;
+  flex-direction: column;
+  gap: 34.5px;
+  height: 85px;
+  margin-left: 20px;
+  margin-top: 224px;
+  width: 217px;
+}
+
+.moderna-ceo-grilled {
+  height: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 215px;
+}
+
+.group-501-1 {
+  background-image: url(../img/group-16-4-3@2x.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 357px;
+  width: 255px;
+}
+
+.group-46-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 21.5px;
+  height: 85px;
+  margin-left: 20px;
+  margin-top: 224px;
+  width: 217px;
+}
+
+.louisville-or-london {
+  height: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 215px;
+}
+
+.group-293 {
+  display: flex;
+  flex-direction: column;
+  height: 418px;
+  left: 156px;
+  position: absolute;
+  top: 0;
+  width: 705px;
+}
+
+.group-289 {
+  align-items: flex-start;
+  display: flex;
+  height: 245px;
+  min-width: 709px;
+}
+
+.rectangle-38 {
+  align-self: center;
+  height: 4px;
+  width: 705px;
+}
+
+.sign-up-for-the-wbax-news-newsletter {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-bottom: -6px;
+  margin-left: 49px;
+  margin-top: 36px;
+  min-height: 21px;
+  white-space: nowrap;
+}
+
+.a-weekly-ad-free-ne {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 41px;
+  min-height: 41px;
+  width: 635px;
+}
+
+.span1 {
+  text-decoration: underline;
+}
+
+.overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--thunderbird);
+  border-radius: 2px;
+  display: flex;
+  gap: 15px;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 49px;
+  margin-top: 25px;
+  min-width: 240px;
+  padding: 12.0px 12px;
+}
+
+.icon-mail {
+  align-self: center;
+  height: 13px;
+  margin-bottom: 1.0px;
+  width: 16px;
+}
+
+.sign-up-1 {
+  height: 15px;
+  letter-spacing: 1.60px;
+  line-height: 15px;
+  min-width: 181px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-291 {
+  display: flex;
+  gap: 18px;
+  margin-top: 50px;
+  width: 460px;
+}
+
+.group-291-item {
+  align-items: flex-start;
+  display: flex;
+  min-width: 102px;
+}
+
+.overlap-group-3 {
+  align-items: center;
+  background-color: var(--vanilla-ice);
+  border-radius: 15px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 100px;
+  padding: 0 33px;
+}
+
+.freebie {
+  height: 14px;
+  letter-spacing: 1.62px;
+  line-height: 14px;
+  min-width: 33px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.overlap-group1-3 {
+  align-items: center;
+  background-color: var(--vanilla-ice);
+  border-radius: 15px;
+  display: flex;
+  height: 30px;
+  min-width: 100px;
+  padding: 0 13px;
+}
+
+.freebie-1 {
+  letter-spacing: 1.62px;
+  min-width: 74px;
+}
+
+.overlap-group2-1 {
+  align-items: center;
+  background-color: var(--vanilla-ice);
+  border-radius: 15px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 100px;
+  padding: 0 13px;
+}
+
+.freebie-2 {
+  letter-spacing: 0;
+  min-width: 73px;
+}
+
+.vector-44-1 {
+  height: 1px;
+  margin-top: 92.5px;
+  object-fit: cover;
+  width: 705px;
+}
+
+.britain-raises-domes {
+  letter-spacing: 0;
+  line-height: 27px;
+  min-height: 105px;
+  width: 215px;
+}
+
+.group-258 {
+  background-image: url(../img/combined-shape-4@2x.png);
+  background-size: 100% 100%;
+  height: 24px;
+  margin-bottom: 0.57px;
+  width: 29px;
+}
+
+.group-259 {
+  height: 24.48px;
+  margin-top: 1.7px;
+  width: 27.43px;
+}
+
+.icon-facebook {
+  height: 27.43px;
+  margin-top: 0;
+  width: 27.43px;
+}
+
+.wbax-news-1-01-2 {
+  height: 47px;
+  margin-left: 36px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.group-27 {
+  display: flex;
+  opacity: 0.5;
+  width: 203px;
+}
+
+.copyright {
+  height: 26px;
+  letter-spacing: 0.24px;
+  line-height: 25.2px;
+  text-align: center;
+  white-space: nowrap;
+  width: 60px;
+}
+
+.x2023-wbax-news {
+  height: 26px;
+  letter-spacing: 0.24px;
+  line-height: 25.2px;
+  margin-left: 7px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.freebie-4 {
+  height: 14px;
+  line-height: 14px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.group-295 {
+  display: flex;
+  flex-direction: column;
+  height: 174px;
+  margin-top: 23px;
+  width: 707px;
+}
+
+.vector-47 {
+  height: 1px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 705px;
+}
+
+.vector-46 {
+  height: 1px;
+  margin-top: 29.5px;
+  object-fit: cover;
+  width: 705px;
+}
+
+.image-60 {
+  height: 400px;
+  margin-left: 3px;
+  margin-top: 40px;
+  object-fit: cover;
+  width: 702px;
+}
+
+.the-central-park-con {
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 47px;
+  min-height: 547px;
+  width: 705px;
+}
+
+.flex-col-2 {
+  gap: 50px;
+  margin-top: 76px;
+  min-height: 1098px;
+  width: 1920px;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

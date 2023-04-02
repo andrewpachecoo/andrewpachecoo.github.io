@@ -1,0 +1,1093 @@
+/* screen - debunked-article */
+
+.debunked-article {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 3383px;
+  overflow-x: hidden;
+  width: 1920px;
+}
+
+.debunked-article .header {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: 0px 1px 0px #000000;
+  display: flex;
+  flex-shrink: 1;
+  height: 144px;
+  justify-content: space-between;
+  mix-blend-mode: normal;
+  padding: 27px 80px;
+  position: relative;
+  width: 1920px;
+}
+
+.debunked-article .debunk-logo-01-1 {
+  height: 90px;
+  min-width: 173px;
+  object-fit: cover;
+  position: relative;
+}
+
+.debunked-article .navbar {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+  width: 1565px;
+}
+
+.debunked-article .navbar-link {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.debunked-article .right {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.debunked-article .search-bar {
+  align-items: center;
+  border: 1px solid;
+  border-color: #d2d2d2;
+  border-radius: 24px;
+  display: flex;
+  gap: 8px;
+  padding: 8px 78px 8px 12px;
+  position: relative;
+  width: 260px;
+}
+
+.debunked-article .icon-search {
+  height: 18px;
+}
+
+.debunked-article .search {
+  color: #8c8c8c;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.debunked-article .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 189px;
+  min-width: 1920px;
+  padding: 15px 388px;
+}
+
+.debunked-article .title {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 118px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 143px;
+  min-width: 1144px;
+  text-align: center;
+}
+
+.debunked-article .line-8 {
+  height: 1px;
+  margin-right: 6.0px;
+  object-fit: cover;
+  width: 1914px;
+}
+
+.debunked-article .useful-info {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  margin-top: 30px;
+  min-height: 93px;
+  width: 1440px;
+}
+
+.debunked-article .line-9 {
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 1440px;
+}
+
+.debunked-article .flex-row {
+  align-items: center;
+  display: flex;
+  gap: 397px;
+  height: 74px;
+  min-width: 1180px;
+}
+
+.debunked-article .author {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.debunked-article .ellipse-14 {
+  height: 74px;
+  min-width: 74px;
+  object-fit: cover;
+  position: relative;
+}
+
+.debunked-article .frame-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: fit-content;
+}
+
+.debunked-article .name {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.debunked-article .national-press-news-senior-editor {
+  color: #666666;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.debunked-article .share {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.debunked-article .share-item {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--nobel);
+  display: flex;
+  gap: 8px;
+  padding: 12px 16px;
+}
+
+.debunked-article .icon {
+  height: 16px;
+  min-width: 16px;
+  position: relative;
+}
+
+.debunked-article .share-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.debunked-article .icon-twitter {
+  height: 14.4px;
+}
+
+.debunked-article .tweet {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.debunked-article .share-2 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  white-space: nowrap;
+}
+
+.debunked-article .copy {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.debunked-article .news-of-a-massive-fi {
+  color: var(--shark);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 48px;
+  min-height: 156px;
+  width: 1025px;
+}
+
+.debunked-article .group-container {
+  height: 1162px;
+  margin-left: 21.0px;
+  margin-top: 63px;
+  position: relative;
+  width: 1205px;
+}
+
+.debunked-article .overlap-group5 {
+  height: 934px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1201px;
+}
+
+.debunked-article .zig-zag {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 860px;
+  position: absolute;
+  top: 0;
+  width: 1201px;
+}
+
+.debunked-article .line-12 {
+  height: 1px;
+  margin-left: 4px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 1177px;
+}
+
+.debunked-article .group-container-1 {
+  margin-top: 107px;
+}
+
+.debunked-article .group-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 125px;
+  margin-top: 5px;
+  width: 582px;
+}
+
+.debunked-article .claim {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  width: 113px;
+}
+
+.debunked-article .a-photograph-showed {
+  align-self: flex-end;
+  height: 54px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4px;
+  text-align: justify;
+  width: 578px;
+}
+
+.debunked-article .group-21 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 206px;
+  width: 582px;
+}
+
+.debunked-article .the-facts-1 {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 186px;
+}
+
+.debunked-article .the-photograph-dates {
+  align-self: flex-end;
+  height: 135px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4px;
+  text-align: justify;
+  width: 578px;
+}
+
+.debunked-article .line-container {
+  height: 1px;
+  margin-top: 116px;
+  position: relative;
+  width: 1181px;
+}
+
+.debunked-article .line-13 {
+  height: 1px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1177px;
+}
+
+.debunked-article .line-15 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1177px;
+}
+
+.debunked-article .group-container-2 {
+  margin-top: 64px;
+}
+
+.debunked-article .group-6 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 125px;
+  margin-top: 8px;
+  width: 582px;
+}
+
+.debunked-article .over-1000-firefight {
+  align-self: flex-end;
+  height: 54px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4px;
+  text-align: justify;
+  width: 578px;
+}
+
+.debunked-article .group-23 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 287px;
+  width: 582px;
+}
+
+.debunked-article .the-facts {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 2px;
+  width: 186px;
+}
+
+.debunked-article .both-new-york-city-f {
+  align-self: flex-end;
+  height: 216px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4px;
+  text-align: justify;
+  width: 578px;
+}
+
+.debunked-article .line-14 {
+  height: 1px;
+  margin-top: 78px;
+  object-fit: cover;
+  width: 1177px;
+}
+
+.debunked-article .group-6-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 152px;
+  left: 2px;
+  position: absolute;
+  top: 782px;
+  width: 582px;
+}
+
+.debunked-article .law-enforcement-sour {
+  align-self: flex-end;
+  height: 81px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4px;
+  text-align: justify;
+  width: 578px;
+}
+
+.debunked-article .group-7 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  height: 260px;
+  left: 623px;
+  position: absolute;
+  top: 902px;
+  width: 582px;
+}
+
+.debunked-article .the-arson-suspected {
+  align-self: flex-end;
+  height: 189px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-right: 4px;
+  text-align: justify;
+  width: 578px;
+}
+
+.debunked-article .more-news-from-external {
+  align-items: flex-start;
+  display: flex;
+  height: 776px;
+  margin-left: 2.0px;
+  margin-top: 79px;
+  min-width: 1922px;
+}
+
+.debunked-article .overlap-group2 {
+  align-items: center;
+  background-color: #161616;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  min-height: 776px;
+  padding: 22.6px 0;
+  width: 1920px;
+}
+
+.debunked-article .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 864px;
+  height: 64px;
+  margin-right: 0;
+  margin-top: 8px;
+  min-width: 1573px;
+}
+
+.debunked-article .related {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 64px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 64px;
+  width: 471px;
+}
+
+.debunked-article .see-all {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  height: 36px;
+  justify-content: center;
+  margin-top: 0.55px;
+  padding: 18px 50px;
+  position: relative;
+  width: 239px;
+}
+
+.debunked-article .see-all-1 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -13.55px;
+  margin-top: -15.55px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.debunked-article .overlap-group1 {
+  height: 636px;
+  position: relative;
+  width: 1920px;
+}
+
+.debunked-article .x3 {
+  display: flex;
+  flex-direction: column;
+  gap: 22.1px;
+  height: 228px;
+  left: 1293px;
+  position: absolute;
+  top: 332px;
+  width: 455px;
+}
+
+.debunked-article .rectangle-28 {
+  height: 157.41px;
+  margin-left: 0;
+  object-fit: cover;
+  width: 453.33px;
+}
+
+.debunked-article .at-least-50-us-gov {
+  height: 48.05px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0;
+  width: 453.33px;
+}
+
+.debunked-article .x2 {
+  display: flex;
+  flex-direction: column;
+  gap: 17.7px;
+  height: 223px;
+  left: 733px;
+  position: absolute;
+  top: 332px;
+  width: 455px;
+}
+
+.debunked-article .epa-pressured-for-tr {
+  height: 48.05px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 0;
+  width: 453.33px;
+}
+
+.debunked-article .x1 {
+  display: flex;
+  flex-direction: column;
+  gap: 18.7px;
+  height: 208px;
+  left: 173px;
+  position: absolute;
+  top: 332px;
+  width: 455px;
+}
+
+.debunked-article .rectangle-28-2 {
+  margin-top: 0;
+}
+
+.debunked-article .the-fight-for-the-fu {
+  height: 32.03px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 453.33px;
+}
+
+.debunked-article .main {
+  align-items: center;
+  display: flex;
+  gap: 107px;
+  height: 254px;
+  left: 173px;
+  min-width: 1577px;
+  position: absolute;
+  top: 17px;
+}
+
+.debunked-article .rectangle-29 {
+  height: 254px;
+  object-fit: cover;
+  width: 907px;
+}
+
+.debunked-article .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18.23px;
+  min-height: 205px;
+  width: 562px;
+}
+
+.debunked-article .world {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 2.16px;
+  line-height: normal;
+  min-height: 12px;
+  width: 99px;
+}
+
+.debunked-article .whats-to-fear-about {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 13px;
+  min-height: 73px;
+  width: 553px;
+}
+
+.debunked-article .group-19 {
+  display: flex;
+  gap: 216px;
+  height: 13px;
+  margin-top: 93px;
+  width: 562px;
+}
+
+.debunked-article .continue-reading {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-weight: 500;
+  height: 13.26px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 226.67px;
+}
+
+.debunked-article .vector-8 {
+  height: 12.99px;
+  margin-top: -0.1px;
+  width: 119.3px;
+}
+
+.debunked-article .lines {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 636px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.debunked-article .line-18 {
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+  width: 1920px;
+}
+
+.debunked-article .line-16 {
+  height: 1px;
+  margin-top: 297px;
+  object-fit: cover;
+  width: 1920px;
+}
+
+.debunked-article .line-container-1 {
+  height: 337px;
+  position: relative;
+  width: 1920px;
+}
+
+.debunked-article .line-15-1 {
+  height: 337px;
+  left: 1240px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.debunked-article .line-14-1 {
+  height: 337px;
+  left: 680px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.debunked-article .line-17 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 336px;
+  width: 1920px;
+}
+
+.debunked-article .newsletter {
+  display: flex;
+  flex-direction: column;
+  height: 165px;
+  margin-left: 6.0px;
+  margin-top: 46px;
+  width: 1082px;
+}
+
+.debunked-article .subscribe-to-our-newsletter {
+  height: 25.04px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 229.5px;
+  text-align: center;
+  width: 616.91px;
+}
+
+.debunked-article .be-the-first-to-know {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 14.12px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 176.5px;
+  margin-top: 16.1px;
+  text-align: center;
+  width: 724.51px;
+}
+
+.debunked-article .input {
+  align-items: center;
+  display: flex;
+  gap: 27px;
+  height: 48px;
+  margin-left: 241px;
+  margin-top: 32.8px;
+  min-width: 607px;
+}
+
+.debunked-article .overlap-group {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--black);
+  display: flex;
+  height: 41px;
+  margin-bottom: 1.0px;
+  min-width: 451px;
+  padding: 9px 17px;
+}
+
+.debunked-article .email-address {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.debunked-article .frame-25 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 14px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.debunked-article .subscribe {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.debunked-article .by-clicking-subscrib {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  height: 17.33px;
+  letter-spacing: 0;
+  line-height: 27px;
+  margin-top: 11.7px;
+  text-align: center;
+  white-space: nowrap;
+  width: 1076px;
+}
+
+.debunked-article .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-left: 4.0px;
+  margin-top: 46px;
+  min-width: 1924px;
+  width: auto;
+}
+
+.debunked-article .overlap-group-1 {
+  background-color: #f1f1f1;
+  height: 385px;
+  position: relative;
+  width: 1920px;
+}
+
+.debunked-article .x2023-national-pres {
+  color: #4f4f4f;
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 310px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 347px;
+  width: 472px;
+}
+
+.debunked-article .terms-conditions-c {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 1082px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 347px;
+  width: 581px;
+}
+
+.debunked-article .overlap-group1-1 {
+  height: 356px;
+  left: 137px;
+  position: absolute;
+  top: 13px;
+  width: 1609px;
+}
+
+.debunked-article .frame-35 {
+  align-items: flex-start;
+  display: flex;
+  gap: 110px;
+  height: 293px;
+  left: 36px;
+  padding: 0px 0px 232px;
+  position: absolute;
+  top: 0;
+  width: 1573px;
+}
+
+.debunked-article .frame-35-item {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  height: 294px;
+  margin-bottom: -232.89px;
+  min-width: 174.5px;
+  position: relative;
+}
+
+.debunked-article .world-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 101.53px;
+}
+
+.debunked-article .africa-americas-asia {
+  height: 256px;
+  letter-spacing: 0;
+  line-height: 32px;
+  width: 170.5px;
+}
+
+.debunked-article .politics {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 38px;
+  height: 220px;
+  margin-bottom: -158.89px;
+  min-width: 174.5px;
+  position: relative;
+}
+
+.debunked-article .politics-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 139.65px;
+}
+
+.debunked-article .ukraine-europe-facts {
+  height: 160px;
+  letter-spacing: 0;
+  line-height: 32px;
+  width: 170.5px;
+}
+
+.debunked-article .business {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  height: 230px;
+  margin-bottom: -168.89px;
+  min-width: 174.5px;
+  position: relative;
+}
+
+.debunked-article .business-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 139.5px;
+}
+
+.debunked-article .markets-tech-media-s {
+  height: 192px;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 1.7px;
+  width: 168.78px;
+}
+
+.debunked-article .tech {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  height: 358px;
+  margin-bottom: -296.89px;
+  min-width: 174.5px;
+  position: relative;
+}
+
+.debunked-article .tech-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 155.89px;
+}
+
+.debunked-article .innovate-gadget-fore {
+  height: 320px;
+  letter-spacing: 0;
+  line-height: 32px;
+  width: 170.5px;
+}
+
+.debunked-article .sports {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 120.35px;
+}
+
+.debunked-article .football-tennis-golf {
+  height: 256px;
+  letter-spacing: 0;
+  line-height: 32px;
+  width: 170.5px;
+}
+
+.debunked-article .culture {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  height: 262px;
+  margin-bottom: -200.89px;
+  margin-right: -4.00px;
+  min-width: 174.5px;
+  position: relative;
+}
+
+.debunked-article .culture-1 {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 121px;
+}
+
+.debunked-article .arts-design-fashion {
+  height: 224px;
+  letter-spacing: 0;
+  line-height: 32px;
+  width: 170.5px;
+}
+
+.debunked-article .debunk-logo-01-1-1 {
+  height: 90px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 173px;
+}
+
+.debunked-article .group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 39px;
+  margin-left: 2px;
+  min-width: 1203px;
+}
+
+.debunked-article .icon-1 {
+  min-width: 18px;
+  position: relative;
+}
+
+.debunked-article .rectangle-28-3 {
+  height: 157.41px;
+  object-fit: cover;
+  width: 453.33px;
+}
+
+.debunked-article .share-3 {
+  position: relative;
+  width: fit-content;
+}
